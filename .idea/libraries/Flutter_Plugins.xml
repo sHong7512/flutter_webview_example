@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_custom_tabs_web-1.0.0" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_web-2.0.18" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter_android-3.9.2" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.7.2" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter-4.2.2" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_custom_tabs-1.0.4" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
